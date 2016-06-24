@@ -13,14 +13,14 @@ cin>>c;
 
 if(a>b && a>c)
 {
-cout<<"The first number is the greatest:"<<a<<endl;
+cout<<"The first number is the largest:"<<a<<endl;
 }
 else if(b>a && b>c)
 {
-cout<<"The second number is the greatest:"<<b<<endl;
+cout<<"The second number is the largest:"<<b<<endl;
 }
 else
 {
-cout<<"The third number is the greatest:"<<c<<endl;
+cout<<"The third number is the largest:"<<c<<endl;
 }
 }
